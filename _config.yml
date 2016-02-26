@@ -1,0 +1,28 @@
+name: '#PhotoJambo'
+favicon: null
+layout_spectrum: 0.020687239011749625
+typography_spectrum: 0.9727637905161828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3051854248624295
+  lightness: 0.7482845282647759
+  saturation: 0.3279995371121913
+  rhythmicContrast: 0.5273558273911476
+purpose: []
