@@ -1,28 +1,40 @@
-name: '#PhotoJambo'
-favicon: null
-layout_spectrum: 0.020687239011749625
-typography_spectrum: 0.9727637905161828
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.3051854248624295
-  lightness: 0.7482845282647759
-  saturation: 0.3279995371121913
-  rhythmicContrast: 0.5273558273911476
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3279995371121913
+  brandStrength: 1
+  lightness: 0.7482845282647759
+  brandColors:
+    - '#050505'
+    - '#01659A'
+    - '#91A3BC'
+    - '#D7D1CE'
+    - '#91B44B'
+  rhythmicContrast: 0.5273558273911476
+typography_spectrum: 0.281362
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: '#PhotoJambo'
